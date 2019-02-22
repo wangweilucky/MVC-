@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:IOS&#x8bbe;&#x8ba1;&#x6a21;&#x5f0f;/Content/Riblets/Riblets/Riblets.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:IOS&#x8bbe;&#x8ba1;&#x6a21;&#x5f0f;/Content/VIPER/VIPER/VIPER.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:IOS&#x8bbe;&#x8ba1;&#x6a21;&#x5f0f;/Content/MAVB/MAVB/../../Elm&#x67b6;&#x6784;/Elm&#x67b6;&#x6784;/Elm&#x67b6;&#x6784;.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:IOS&#x8bbe;&#x8ba1;&#x6a21;&#x5f0f;/Content/MAVB/MAVB/MAVB.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:IOS&#x8bbe;&#x8ba1;&#x6a21;&#x5f0f;/Content/MVVM/MVVM+C/../../MVC/MVC+VS/MVC+VS.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:IOS&#x8bbe;&#x8ba1;&#x6a21;&#x5f0f;/Content/MVP/MVP/../../MVVM/MVVM+C/MVVM+C.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:IOS&#x8bbe;&#x8ba1;&#x6a21;&#x5f0f;/Content/MVP/MVP/MVP.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:IOS&#x8bbe;&#x8ba1;&#x6a21;&#x5f0f;/Content/MVC/MVC/MVC.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:IOS&#x8bbe;&#x8ba1;&#x6a21;&#x5f0f;.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Pods/Pods.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:IOS&#x8bbe;&#x8ba1;&#x6a21;&#x5f0f;/Content/RxSwift/RxSwift+MVVM/RxSwift+MVVM.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:IOS&#x8bbe;&#x8ba1;&#x6a21;&#x5f0f;/Content/ReSwift/ReSwift/ReSwift.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:IOS&#x8bbe;&#x8ba1;&#x6a21;&#x5f0f;/Content/PromissKit/PromiseKit/PromiseKit.xcodeproj">
+   </FileRef>
+</Workspace>

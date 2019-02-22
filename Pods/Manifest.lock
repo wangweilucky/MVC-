@@ -1,0 +1,29 @@
+PODS:
+  - PromiseKit (6.8.3):
+    - PromiseKit/CorePromise (= 6.8.3)
+    - PromiseKit/Foundation (= 6.8.3)
+    - PromiseKit/UIKit (= 6.8.3)
+  - PromiseKit/CorePromise (6.8.3)
+  - PromiseKit/Foundation (6.8.3):
+    - PromiseKit/CorePromise
+  - PromiseKit/UIKit (6.8.3):
+    - PromiseKit/CorePromise
+  - ReSwift (4.0.1)
+  - RxAtomic (4.4.1)
+  - RxSwift (4.4.1):
+    - RxAtomic (~> 4.4)
+
+DEPENDENCIES:
+  - PromiseKit
+  - ReSwift
+  - RxSwift
+
+SPEC CHECKSUMS:
+  PromiseKit: 94c6e781838c5bf4717677d0d882b0e7250c80fc
+  ReSwift: f4012c613e13da7398827fe5aebdb938eaed40a3
+  RxAtomic: f8d6adc1ccb87a767811269e4875887bc74dbf19
+  RxSwift: 92fcf68dfef21f3e2ab1965363d9e7b3d787597e
+
+PODFILE CHECKSUM: 631f14fb6d691a02b87ab55d5e878b229a2617f9
+
+COCOAPODS: 1.3.1
